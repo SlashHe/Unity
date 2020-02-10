@@ -1,0 +1,21 @@
+[
+    {"serverName":"红尘画卷","serverType":1},
+    {"serverName":"千秋几世","serverType":1},
+    {"serverName":"如烟若梦","serverType":2},
+    {"serverName":"翰墨流离","serverType":0},
+    {"serverName":"烟暖初妆","serverType":0},
+    {"serverName":"沧桑年倦","serverType":1},
+    {"serverName":"伊人夕岸","serverType":0},
+    {"serverName":"染指年华","serverType":1},
+    {"serverName":"风华流沙","serverType":1},
+    {"serverName":"一叶知秋","serverType":1},
+    {"serverName":"春兰秋菊","serverType":2},
+    {"serverName":"枫林如火","serverType":0},
+    {"serverName":"诗情画意","serverType":2},
+    {"serverName":"瞬息万变","serverType":0},
+    {"serverName":"碧瓦红墙","serverType":2},
+    {"serverName":"万紫千红","serverType":1},
+    {"serverName":"美不胜收","serverType":1},
+    {"serverName":"桂子飘香","serverType":2},
+    {"serverName":"桃李争妍","serverType":0}
+    ]

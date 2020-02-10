@@ -1,0 +1,13 @@
+[
+{"id":9001,"des":"第一次穿戴装备","awardType":0,"awardValue":1000,"taskType":0,"expValue":50},
+{"id":9002,"des":"第一次购买装备","awardType":1,"awardValue":100,"taskType":0,"expValue":60},
+{"id":9003,"des":"第一次进入游戏","awardType":0,"awardValue":2000,"taskType":0,"expValue":30},
+{"id":9004,"des":"第一次卖装备","awardType":0,"awardValue":1000,"taskType":0,"expValue":60},
+{"id":9005,"des":"第一次升级技能","awardType":1,"awardValue":100,"taskType":0,"expValue":50},
+{"id":9006,"des":"穿戴6个装备","awardType":0,"awardValue":2000,"taskType":1,"expValue":60},
+{"id":9007,"des":"打完第二波怪","awardType":1,"awardValue":200,"taskType":1,"expValue":30},
+{"id":9008,"des":"打败第一关Boss","awardType":0,"awardValue":3000,"taskType":1,"expValue":60},
+{"id":9009,"des":"打死30只怪","awardType":1,"awardValue":300,"taskType":1,"expValue":50},
+{"id":9010,"des":"创建3个塔","awardType":0,"awardValue":3000,"taskType":1,"expValue":60},
+{"id":9011,"des":"通过第一关","awardType":1,"awardValue":400,"taskType":1,"expValue":30}
+]
